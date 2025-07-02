@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dsa_sheet/dsa_sheet.iml" filepath="$PROJECT_DIR$/dsa_sheet/dsa_sheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/striver java.iml" filepath="$PROJECT_DIR$/.idea/striver java.iml" />
+    </modules>
+  </component>
+</project>
