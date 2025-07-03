@@ -28,6 +28,9 @@ public class largestEle {
         }
         System.out.println(set);
         Integer arr1[]= set.toArray(new Integer[set.size()]);
+        if(arr1.length < 2){
+            System.out.println("-1");
+        }
         System.out.println("largest:"+ arr1[arr1.length-1]);
         System.out.println("seclargest:"+ arr1[arr1.length-2]);
     }
